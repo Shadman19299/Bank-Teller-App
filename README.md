@@ -1,13 +1,5 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/tcv9K4Do)
-# Intro to Superior Java Week 1 Challenge
-
-Follow the instruction from Canvas [CC 3.1 - Java Bank Teller App Challenge](https://awstechu.instructure.com/courses/778/modules/items/142642)
-
-Commit your code here.
-
 
 ######################Code Description###############
-
 
 # Solution1: Simple Implementation
 **myMain.java** and **Teller.java** are the two Java files that fulfills the minimum project requirements, which are the following : 
